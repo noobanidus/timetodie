@@ -5,7 +5,7 @@ license="https://github.com/noobanidus/timetodie/blob/master/LICENSE"
 [[mods]] 
 modId="timetodie" 
 version="${version}"
-displayName="Mystical Biomes"
+displayName="Time to Die"
 displayURL="https://minecraft.curseforge.com/projects/timetodie"
 credits=""
 authors="Noobanidus"
